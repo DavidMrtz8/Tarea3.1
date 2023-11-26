@@ -1,2 +1,0 @@
-Colab: https://colab.research.google.com/drive/1Z6orDvGzv2yd4HKRY2QDoC9JTN6BU-XJ?usp=sharing
-Github: https://github.com/DavidMrtz8/Tarea3.1.git
